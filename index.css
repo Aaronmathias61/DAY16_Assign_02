@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+.event{
+    background-color: rgb(216, 92, 189);
+    margin: 50px;
+    border: 5px solid black;
+    padding: 10px;
+}
+body{
+    background-color: rgb(46, 8, 185);
+}
+.box-part{
+    background-color: rgb(158, 206, 235);
+    margin:20px 0px;
+    padding:10px 20px;
+}
+.box{
+    padding: 20px 0px;
+}
+h4{
+    text-align: center;
+}
+img{
+    padding: 10px;
+}
+.column{
+    padding: 1px;
+}
